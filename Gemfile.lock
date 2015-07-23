@@ -101,6 +101,3 @@ PLATFORMS
 DEPENDENCIES
   vagrant!
   vagrant-catapult!
-
-BUNDLED WITH
-   1.10.5
